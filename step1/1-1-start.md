@@ -12,7 +12,7 @@
 - 포기하지 말고 꾸준히 풀어라
 - 일단 200문제만 풀고 나서 이야기하자
 
-## BOJ 시작하기 (3)
+## BOJ 시작하기
 
 - 표준 입출력을 통해 문제를 푸는 방법을 이해한다.
 
@@ -20,7 +20,7 @@
 - https://www.acmicpc.net/problem/1000
 - https://www.acmicpc.net/problem/1001
 
-## 프로그래머스 1단계 문제 풀기 (1)
+## 프로그래머스 1단계 문제 풀기
 
 - https://programmers.co.kr/learn/courses/30/lessons/12912
 
